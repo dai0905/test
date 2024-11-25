@@ -24,6 +24,11 @@
     height: 32px;
 }
 
+.btn-sm-square {
+    width: 34px;
+    height: 34px;
+}
+
 .btn-md-square {
     width: 44px;
     height: 44px;
