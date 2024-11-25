@@ -3,6 +3,12 @@ const updateDisplay = () => {
     document.getElementById('valueBtn').value = value;  
 };  
 
+
+// djgjjggj
+// fffff
+// fff
+=======
+
 document.getElementById('btnTang').addEventListener('click', () => {  
     const inputValue = parseInt(document.getElementById('valueBtn').value); // Lấy giá trị từ input  
     if (!isNaN(inputValue)) { // Kiểm tra xem giá trị có phải là số không  
